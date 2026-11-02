@@ -1,0 +1,9 @@
+*.sql
+*.xls
+*.xlsx
+.env
+.env.*
+vendor/
+.idea/
+.vscode/
+Thumbs.db
